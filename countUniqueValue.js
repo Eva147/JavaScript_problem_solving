@@ -20,6 +20,6 @@ function countUniqueNums(arr) {
     return (i + 1)
 }
 
-console.log(countUniqueNums([1,2,3,4,4,4])) // returns 4 because there're 4 unique nums: 1, 2, 3 and 4
-console.log(countUniqueNums([]))   // returns 0
-console.log(countUniqueNums([-2, -1, -1, 0, 1, 2]))   // returns 5
+// console.log(countUniqueNums([1,2,3,4,4,4])) // returns 4 because there're 4 unique nums: 1, 2, 3 and 4
+// console.log(countUniqueNums([]))   // returns 0
+// console.log(countUniqueNums([-2, -1, -1, 0, 1, 2]))   // returns 5
